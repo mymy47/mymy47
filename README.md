@@ -1,2 +1,0 @@
-# mymy47
-README
